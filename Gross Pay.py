@@ -1,3 +1,4 @@
+#This program gives the user their gross pay
 base_hours = 40 #base hours per week
 Overtime_multiplier =1.5 #Multiplier for the amount of overtime hours
 hours_worked=float(input("Please enter the number of  hours worked "))
